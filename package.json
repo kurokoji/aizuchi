@@ -1,0 +1,31 @@
+{
+  "name": "aizuchi",
+  "version": "1.0.0",
+  "description": "Aizu Online Judge API Wrapper",
+  "main": "dest/aizuchi.js",
+  "scripts": {
+    "build": "tsc",
+    "postinstall": "postinstall-build dest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurokoji/aizuchi.git"
+  },
+  "keywords": [
+    "aoj"
+  ],
+  "author": "Shu Kakihana <shu.kakihana@gmail.com> (https://twitter.com/kur0k0ji)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurokoji/aizuchi/issues"
+  },
+  "homepage": "https://github.com/kurokoji/aizuchi#readme",
+  "devDependencies": {
+    "postinstall-build": "^5.0.1",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.1",
+    "jquery": "^3.3.1"
+  }
+}
