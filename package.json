@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/kurokoji/aizuchi#readme",
   "devDependencies": {
-    "postinstall-build": "^5.0.1",
     "typescript": "^2.7.2"
   },
   "dependencies": {
     "@types/jquery": "^3.3.1",
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "postinstall-build": "^5.0.1"
   }
 }
