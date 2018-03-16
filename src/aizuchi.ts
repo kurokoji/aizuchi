@@ -1,0 +1,5 @@
+class Aizuchi {
+  constructor() {
+    
+  }
+}
